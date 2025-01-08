@@ -4,8 +4,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
----
 ### About Me:
+
+---
 
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/tahseen-ahamad-486862192/">
