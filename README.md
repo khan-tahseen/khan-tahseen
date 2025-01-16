@@ -16,5 +16,5 @@
 
 
 - 🔭 I’m currently working on ...?
-- 📫 How to reach me: ##tahseenkhanit@gmail.com
+- 📫 How to reach me: tahseenkhanit@gmail.com
 - ⚡ Fun fact: ...
