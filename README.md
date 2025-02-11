@@ -7,7 +7,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70"/>    
 </div>
 
-![](catC.gif)
+![](catC.gif =250x250)
+
+<img src="catC.gif" width="250" height="250"/>
 
 -----
 
