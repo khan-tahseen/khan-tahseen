@@ -6,7 +6,7 @@
 <div id="header" align="start">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="180"/>  
 
-  <img src="catC.gif" width="200" height="180" align="end"/>
+  <img src="catC.gif" width="220" height="200"/>
 
 </div>
 
