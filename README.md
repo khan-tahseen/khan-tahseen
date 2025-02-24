@@ -18,6 +18,8 @@
   <a target="_blank" href="https://www.linkedin.com/in/tahseen-ahamad-486862192/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+    https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
 </div>
 
 
