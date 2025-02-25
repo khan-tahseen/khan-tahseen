@@ -24,7 +24,6 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="35" height="35"/>
 </div>
 
-
 ----
 
 <div id="badges">
