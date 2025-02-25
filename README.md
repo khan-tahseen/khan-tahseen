@@ -9,8 +9,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="180"/>  
 
   <img src="catC.gif" width="250" height="200"/>
-
 </div>
+
+----
 
 <div style={{padding-top: 5px}}>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="35" height="35"/>
@@ -24,7 +25,7 @@
 </div>
 
 
----
+----
 
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/tahseen-ahamad-486862192/">
