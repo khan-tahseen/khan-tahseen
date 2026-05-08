@@ -20,5 +20,5 @@
 
 
 - 🔭 I’m currently working on ...personal project😁
-- 📫 How to reach me: tahseenkhanit@gmail.com
+- 📫 How to reach me: contact@tahseenkhan.dev
 - ⚡ Fun fact: not to disclose...
