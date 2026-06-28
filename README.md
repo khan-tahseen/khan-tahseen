@@ -4,7 +4,7 @@
 
 <img src="catC.gif" width="210" height="170" align="right"/>
 
-~4.5 years shipping across web, mobile, and backend. Based in Delhi, India.
+~4+ years shipping across web, mobile, and backend. Based in Delhi, India.
 
 #### 🔭 Currently
 - Designing multi-gateway payment + subscription infrastructure (Razorpay, PhonePe, Stripe, Apple IAP, Google Play) with durable webhook ingestion and reconciliation on AWS — Lambda, SQS, SES
