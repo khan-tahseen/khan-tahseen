@@ -14,7 +14,6 @@
 #### 🚀 Building & shipping
 - **Slope** — fat-loss & weight-trend tracker. SwiftUI · SwiftData · CloudKit · HealthKit, with an adaptive TDEE engine as a standalone Swift package. → [slope.tahseenkhan.dev](https://slope.tahseenkhan.dev) <!-- → App Store link once live -->
 - **Expences** — native expense tracker for iOS / iPadOS / macOS. SwiftUI · StoreKit 2 · local-first with CloudKit sync. → [expence.tahseenkhan.dev](https://expence.tahseenkhan.dev)
-- **ExpenditureEngine** — open-source Swift package: adaptive TDEE estimation from weight + intake history. <!-- → repo link once public -->
 
 #### 🧰 Core stack
 `TypeScript` · `Swift / SwiftUI` · `React Native` · `Node.js` · `MongoDB` · `AWS` · `Docker`
