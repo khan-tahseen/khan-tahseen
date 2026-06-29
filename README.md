@@ -23,4 +23,4 @@
 
 ---
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=khan-tahseen&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats"/>
+<!-- <img height="155" src="https://github-readme-stats.vercel.app/api?username=khan-tahseen&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub stats"/> -->
